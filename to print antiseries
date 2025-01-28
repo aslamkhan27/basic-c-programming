@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+void main()
+{
+  int i,m;
+  scanf("%d",&m);
+   for( i = 0 ; i<= 55; i++ )
+   printf("%d\n",i * m);
+}
